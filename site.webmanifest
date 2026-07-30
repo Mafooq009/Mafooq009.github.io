@@ -1,0 +1,15 @@
+{
+  "name": "Syed Mafooq Ul Hassan \u2014 Academic Portfolio",
+  "short_name": "SMH Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7faf9",
+  "theme_color": "#0b6b66",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
